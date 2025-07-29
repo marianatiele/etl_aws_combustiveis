@@ -20,19 +20,19 @@ Este projeto realiza o processo de **Extração, Transformação e Carga (ETL)**
 
 <img width="699" height="414" alt="image" src="https://github.com/user-attachments/assets/65f4c153-33a6-4508-833e-a4aff36b1341" />
 
-## 📂 Estrutura da Camada Medallion
+## Estrutura da Camada Medallion
 
 * **Bronze Layer**: Dados brutos extraídos diretamente do portal
 * **Silver Layer**: Dados limpos e estruturados
 * **Gold Layer**: Dados prontos para análise e visualização
 
-## 📌 Objetivos do Projeto
+##  Objetivos do Projeto
 
 * Automatizar o processo de ingestão e transformação de dados
 * Criar uma arquitetura escalável e baseada em nuvem
 * Servir como base para dashboards, análises preditivas ou relatórios
 
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * AWS Glue (Jobs, Crawlers)
 * Amazon S3 (Data Lake)
