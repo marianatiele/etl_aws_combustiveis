@@ -30,15 +30,14 @@ Este projeto realiza o processo de **Extração, Transformação e Carga (ETL)**
 
 * Automatizar o processo de ingestão e transformação de dados
 * Criar uma arquitetura escalável e baseada em nuvem
-* Servir como base para dashboards, análises preditivas ou relatórios
+* Servir como base para dashboards, ML, análises preditivas ou relatórios
 
 ## Tecnologias e Ferramentas
 
 * AWS Glue (Jobs, Crawlers)
 * Amazon S3 (Data Lake)
 * IAM (Permissões e funções)
-* Amazon RDS MySQL (Camada final, opcional)
-* Python (scripts Glue opcionalmente personalizados)
+* Python (scripts Glue)
 
 
 
