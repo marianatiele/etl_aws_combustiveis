@@ -1,8 +1,6 @@
 # Projeto de Engenharia de Dados 
 Bem-vindo à documentação do meu projeto de engenharia de dados. Este projeto envolve a utilização da Amazon S3 para armazenamento de dados CSV,  processamento de dados com base na arquitetura de Medallion (Bronze, Silver, Gold) e visualização de informações no Power BI.
 
-**Projeto de ETL dos dados de combustíveis (Gasolina, Diesel e Etanol) disponibilizados pelo portal do Governo Federal.**
-
 ## Visão Geral
 
 Neste projeto, seguimos um fluxo de dados estruturado em várias camadas para garantir a qualidade e a integridade dos dados antes de apresentá-los no Power BI. Abaixo está uma visão geral de cada componente envolvido no processo.
