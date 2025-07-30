@@ -16,9 +16,10 @@ Este projeto realiza o processo de **Extração, Transformação e Carga (ETL)**
 2. **Tratamento dos dados com AWS Glue** (limpeza, conversões, padronizações)
 3. **Gravação dos dados processados no S3** (Camada *Silver* e *Gold*)
 
-## Fluxograma do Projeto na AWS
+## Fluxograma do Projeto 
 
-<img width="699" height="414" alt="image" src="https://github.com/user-attachments/assets/65f4c153-33a6-4508-833e-a4aff36b1341" />
+<img width="771" height="350" alt="image" src="https://github.com/user-attachments/assets/f119d7d2-64fc-4317-bc8b-8ec1ff046b3b" />
+
 
 ## Estrutura da Camada Medallion
 
