@@ -29,6 +29,5 @@ Neste projeto, seguimos um fluxo de dados estruturado em várias camadas para ga
 * Criar uma arquitetura escalável e baseada em nuvem
 * Servir como base para dashboards, ML, análises preditivas ou relatórios
 
-
-
-
+## OBS:
+Projeto em desenvolvimento
