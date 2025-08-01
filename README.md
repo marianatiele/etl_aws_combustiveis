@@ -21,7 +21,7 @@ Neste projeto, seguimos um fluxo de dados estruturado em várias camadas para ga
 
 ## Fluxo da Pipeline de dados
 
-<img width="771" height="350" alt="image" src="https://github.com/user-attachments/assets/f119d7d2-64fc-4317-bc8b-8ec1ff046b3b" />
+
 
 ##  Objetivos do Projeto
 
