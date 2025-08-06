@@ -7,11 +7,10 @@ Neste projeto, seguimos um fluxo de dados estruturado em várias camadas para ga
 
 ## Tecnologias Utilizadas
 
-**Serviços AWS**: S3, RDS PostgreSQL
-
-**Serviços GCP** Google Colab
-
-**Visualização** Microsoft Power BI
+- S3
+- RDS PostgreSQL
+- Google Colab
+- Microsoft Power BI
 
 ## Fluxo de Trabalho
 
@@ -29,5 +28,11 @@ Neste projeto, seguimos um fluxo de dados estruturado em várias camadas para ga
 * Criar uma arquitetura escalável e baseada em nuvem
 * Servir como base para dashboards, ML, análises preditivas ou relatórios
 
-## OBS:
-Projeto em desenvolvimento
+## Painel 
+
+<img width="845" height="480" alt="image" src="https://github.com/user-attachments/assets/78c139cf-bea1-48fd-92eb-af4ed55a47ab" />
+
+<img width="827" height="474" alt="image" src="https://github.com/user-attachments/assets/3dc3bc2e-2583-4445-9cbc-1aaaca9512b5" />
+
+<img width="844" height="456" alt="image" src="https://github.com/user-attachments/assets/6d184f52-4c62-4fc0-8aa4-e24228839ea8" />
+
